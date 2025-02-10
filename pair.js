@@ -61,20 +61,20 @@ router.get('/', async (req, res) => {
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 ~𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒊𝒔 𝒘𝒂𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒃𝒐𝒕 𝒖𝒑𝒅𝒂𝒕𝒆𝒔~
-> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
-> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
+> https://whatsapp.com/channel/0029Vb1mgOeCXC3K15xnyF2z
+> https://whatsapp.com/channel/0029Vb1mgOeCXC3K15xnyF2z
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 ~𝑭𝒐𝒓 𝒎𝒐𝒓𝒆 𝒊𝒏𝒇𝒐 𝒕𝒂𝒑 𝒐𝒏 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌 𝒃𝒆𝒍𝒐𝒘~
-> https://GitHub.com/Cheroo51/ENZO-MD 
-> https://github.com/Popkidtech/IANS-MD
+> https://GitHub.com/coming 
+> https://github.com/
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
  ~𝑭𝒐𝒓 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒕𝒆𝒙𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓~
-> https://wa.me/message/254784115308
-> https://wa.me/message/254111385747
+> https://wa.me/message/918138898059
+> https://wa.me/message/94704031866
 
-*MADE BY ENZO TECH*❒❒❒❒❒❒❒❒❒`
+*MADE BY CRONAZ XD*❒❒❒❒❒❒❒❒❒`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
